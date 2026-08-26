@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Привет, я Амир!<br>💻 Frontend-разработчик | React.js | UI/UX энтузиаст<br><br>Мне 19 лет, и я увлечён программированием. 📫 Связаться со мной: https://t.me/LiveMeXD
+👋 Привет, я Амир!<br>💻 Frontend-разработчик | React.js | UI/UX энтузиаст<br>📫 Связаться со мной: https://t.me/LiveMeXD
 
 
 ## 🌐 Socials:
